@@ -1,0 +1,7 @@
+pymupdf
+pillow
+numpy
+scipy
+pywin32
+tkinterdnd2
+pyinstaller
